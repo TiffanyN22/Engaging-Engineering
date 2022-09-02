@@ -7,25 +7,25 @@ Within this repository are the bigger projects I coded and guided students throu
 
 ##Workshops Project Breakdown:
 ###Intro to Python:
-1. 'SimonSays': Game of Simon Says that prompts the user to enter certain words and sees if they correctly followed Simon's instructions.  This program utilizes variables, prints, user input, math, and if statements.
-2. 'EnterPW': Program that mimics entering a password and giving a hint after 3 tries by using variables, prints, user input, while loops, and if statements.
+1. 'SimonSays': Game of Simon Says that prompts the user to enter certain words and sees if they correctly followed Simon's instructions. 
+2. 'EnterPW': Program that mimics entering a password and giving a hint after 3 tries.
 
 ###Intermediate Python
-1. 'Hero': Uses video-game type heroes to cover classes
+1. 'Hero': Uses video-game type heroes to cover classes.
 
 ###Intro to C++:
-1. 'NumberGuessingGame': Number Guessing Game that will generate a random number from 1 to 100, let the user guess numbers, tells the user if their guess was too high or too low, and counts the number of tries it takes them to guess the correct number.  This program covers rand, variables, do while loop, if/else statements, print with cout, and user input
-2. 'LargestNum': Code to find the largest number in an array as practice for creating arrays and looping through them with a for loop
-3. 'RandomPWGenerator': Program that generates a random string of letters using arrays, rand, and for loops.
+1. 'NumberGuessingGame': Number Guessing Game that will generate a random number from 1 to 100, let the user guess numbers, tells the user if their guess was too high or too low, and counts the number of tries it takes them to guess the correct number.
+2. 'LargestNum': Code to find the largest number in an array.
+3. 'RandomPWGenerator': Program that generates a random string of letters
 
 ###Intermediate C++:
-1. 'RockPaperScissor': Game of Rock, Paper, Scissors that lets the user plays against the computer and uses defines, do while loops, rand, if else statements, and switch cases.
-2. 'Building': Code for Buildings and Addresses to practice coding classes in c++
+1. 'RockPaperScissor': Game of Rock, Paper, Scissors that lets the user select their move and play against the computer
+2. 'Building': Code for Buildings and Addresses to practice coding classes
 
 ###Intro to Java:
-1. 'Bank': This program mimcis a bank that allows the user to deposit money, withdraw money, see their balance, and perform multiple transactions.  It utilizes scanner for user input, variable, do while loops, printing with println, printing formatted numbers with printf, and if statements.
-2. 'MultiplicationTable': Code that makes and prints out a multiplication table using 2D arrays, for loops, and formatted printing with printf.
+1. 'Bank': This program mimcis a bank that allows the user to deposit money, withdraw money, see their balance, and perform multiple transactions.
+2. 'MultiplicationTable': Code that makes and prints out a multiplication table
 
 ###Intermediate Java:
-1. 'Animals': Program to create animals, cats, and monkeys to practice classes and inheritance with Java syntax.
-2. 'Hangman': Simplified game of hangman that allows the user to guess letters until they get the correct word. The code uses scanner for user input, arrays, rand, and common String methods.
+1. 'Animals': Program to create animals, cats, and monkeys
+2. 'Hangman': Simplified game of hangman that allows the user to guess letters until they get the correct word. 
